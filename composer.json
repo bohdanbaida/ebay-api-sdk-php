@@ -13,7 +13,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/davidtsadler/ebay-sdk-php/issues"
+        "issues": "https://github.com/bosston812/ebay-api-sdk-php/issues"
     },
     "require": {
         "php": ">=5.5",
