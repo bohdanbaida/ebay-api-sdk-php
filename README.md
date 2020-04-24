@@ -1,6 +1,6 @@
 # EBAY-API-SDK-PHP
 
-This package is based on [Ebay SDK](https://github.com/davidtsadler/ebay-sdk-php) written by David T. Sadler to make up for the lack of an official SDK for PHP.
+This project is based on [Ebay SDK](https://github.com/davidtsadler/ebay-sdk-php) written by David T. Sadler to make up for the lack of an official SDK for PHP.
 (It is in no way endorsed, sponsored or maintained by eBay).
 
 After original repository was archived, and no longer supported, I've created this repository from copy of [Ebay SDK](https://github.com/davidtsadler/ebay-sdk-php). To keep improving and maintaining SDK for eBay API.
@@ -17,6 +17,7 @@ This is a personal project that has been maintained by me, [Bohdan B.](http://tw
 
 ## Resources
 
+  - [User Guides](http://devbay.net/sdk/guides/) - Getting started guide and in-depth information.
   - [Examples](https://github.com/davidtsadler/ebay-sdk-examples) - Several examples of using the SDK.
   - [@bosston812](https://twitter.com/bosston812) - Follow on Twitter for announcements of releases, important changes and so on.
 
@@ -81,4 +82,4 @@ printf("The official eBay time is: %s\n", $response->Timestamp->format('H:i (\G\
 
 Licensed under the [Apache Public License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-Copyright 2016 [David T. Sadler](http://twitter.com/davidtsadler)
+Copyright 2020 [Bohdan B.](http://twitter.com/bosston812)
