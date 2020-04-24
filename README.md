@@ -1,4 +1,4 @@
-# EBAY-SDK-PHP
+# EBAY-API-SDK-PHP
 
 **This repository is no longer actively maintained and has been archived.**
 
