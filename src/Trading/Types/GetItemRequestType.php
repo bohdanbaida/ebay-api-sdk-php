@@ -83,7 +83,7 @@ class GetItemRequestType extends \DTS\eBaySDK\Trading\Types\AbstractRequestType
             'elementName' => 'IncludeItemCompatibilityList'
         ],
         'OutputSelector' => [
-            'type' => 'boolean',
+            'type' => 'string',
             'repeatable' => false,
             'attribute' => false,
             'elementName' => 'OutputSelector'
