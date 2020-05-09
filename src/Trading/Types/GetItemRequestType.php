@@ -21,6 +21,7 @@ namespace DTS\eBaySDK\Trading\Types;
  * @property \DTS\eBaySDK\Trading\Types\NameValueListArrayType $VariationSpecifics
  * @property string $TransactionID
  * @property boolean $IncludeItemCompatibilityList
+ * @property string $OutputSelector
  */
 class GetItemRequestType extends \DTS\eBaySDK\Trading\Types\AbstractRequestType
 {
