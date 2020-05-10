@@ -31,9 +31,9 @@ namespace DTS\eBaySDK\Trading\Types;
  * @property string $RestockingFeeValueOption
  * @property boolean $ExtendedHolidayReturns
  * @property string $InternationalRefundOption
- * @property string InternationalReturnsAcceptedOption
- * @property string InternationalReturnsWithinOption
- * @property string InternationalShippingCostPaidByOption
+ * @property string $InternationalReturnsAcceptedOption
+ * @property string $InternationalReturnsWithinOption
+ * @property string $InternationalShippingCostPaidByOption
  */
 class ReturnPolicyType extends \DTS\eBaySDK\Types\BaseType
 {
